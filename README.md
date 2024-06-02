@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Ytqwerty/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1944-truncate-sentence](https://github.com/Ytqwerty/leetcode/tree/master/1944-truncate-sentence) |
 | [3194-find-words-containing-character](https://github.com/Ytqwerty/leetcode/tree/master/3194-find-words-containing-character) |
 # Hash Table
 |  |
@@ -22,4 +23,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [1944-truncate-sentence](https://github.com/Ytqwerty/leetcode/tree/master/1944-truncate-sentence) |
 | [3194-find-words-containing-character](https://github.com/Ytqwerty/leetcode/tree/master/3194-find-words-containing-character) |
