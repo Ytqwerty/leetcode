@@ -7,11 +7,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Ytqwerty/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1944-truncate-sentence](https://github.com/Ytqwerty/leetcode/tree/master/1944-truncate-sentence) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Ytqwerty/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3194-find-words-containing-character](https://github.com/Ytqwerty/leetcode/tree/master/3194-find-words-containing-character) |
 # Hash Table
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Ytqwerty/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Ytqwerty/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 # Math
 |  |
 | ------- |
@@ -24,4 +26,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1944-truncate-sentence](https://github.com/Ytqwerty/leetcode/tree/master/1944-truncate-sentence) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Ytqwerty/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3194-find-words-containing-character](https://github.com/Ytqwerty/leetcode/tree/master/3194-find-words-containing-character) |
+# Simulation
+|  |
+| ------- |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Ytqwerty/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
