@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Ytqwerty/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2491-smallest-even-multiple](https://github.com/Ytqwerty/leetcode/tree/master/2491-smallest-even-multiple) |
 # Counting
 |  |
 | ------- |
@@ -32,3 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Ytqwerty/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+# Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Ytqwerty/leetcode/tree/master/2491-smallest-even-multiple) |
