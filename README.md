@@ -28,11 +28,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1944-truncate-sentence](https://github.com/Ytqwerty/leetcode/tree/master/1944-truncate-sentence) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Ytqwerty/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2886-faulty-keyboard](https://github.com/Ytqwerty/leetcode/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/Ytqwerty/leetcode/tree/master/3194-find-words-containing-character) |
 # Simulation
 |  |
 | ------- |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Ytqwerty/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2886-faulty-keyboard](https://github.com/Ytqwerty/leetcode/tree/master/2886-faulty-keyboard) |
 # Number Theory
 |  |
 | ------- |
