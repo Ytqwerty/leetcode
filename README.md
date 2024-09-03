@@ -60,4 +60,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Ytqwerty/leetcode/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Ytqwerty/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+## Math
+|  |
+| ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Ytqwerty/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
