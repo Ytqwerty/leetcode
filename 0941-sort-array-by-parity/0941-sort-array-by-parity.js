@@ -13,8 +13,5 @@ var sortArrayByParity = function(nums) {
             arr2.push(nums[i])
         }
     }
-    for (let i=0;i<arr2.length;i++) {
-        arr1.push(arr2[i])
-    }
-    return arr1
+    return [...arr1,...arr2]
 };
