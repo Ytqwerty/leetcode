@@ -68,10 +68,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/Ytqwerty/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ytqwerty/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2502-sort-the-people](https://github.com/Ytqwerty/leetcode/tree/master/2502-sort-the-people) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ytqwerty/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Math
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ytqwerty/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ytqwerty/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Sorting
 |  |
 | ------- |
