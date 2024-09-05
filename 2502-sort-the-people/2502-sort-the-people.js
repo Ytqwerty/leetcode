@@ -10,7 +10,7 @@ var sortPeople = function(names, heights) {
     array.push([names[i],heights[i]])
    }
    array.sort((a,b) => b[1] - a[1])
-   for (const key of array) {
+   for (let key of array) {
     result.push(key[0])
    }
    return result
