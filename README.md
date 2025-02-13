@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ytqwerty/leetcode/tree/master/0001-two-sum) |
 | [0941-sort-array-by-parity](https://github.com/Ytqwerty/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ytqwerty/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2502-sort-the-people](https://github.com/Ytqwerty/leetcode/tree/master/2502-sort-the-people) |
@@ -84,5 +85,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ytqwerty/leetcode/tree/master/0001-two-sum) |
 | [2502-sort-the-people](https://github.com/Ytqwerty/leetcode/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
