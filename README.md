@@ -55,11 +55,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ytqwerty/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Ytqwerty/leetcode/tree/master/0344-reverse-string) |
 | [0941-sort-array-by-parity](https://github.com/Ytqwerty/leetcode/tree/master/0941-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ytqwerty/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Ytqwerty/leetcode/tree/master/0344-reverse-string) |
 | [2502-sort-the-people](https://github.com/Ytqwerty/leetcode/tree/master/2502-sort-the-people) |
 ## Array
@@ -87,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Ytqwerty/leetcode/tree/master/0001-two-sum) |
 | [2502-sort-the-people](https://github.com/Ytqwerty/leetcode/tree/master/2502-sort-the-people) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ytqwerty/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
