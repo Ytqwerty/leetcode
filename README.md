@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ytqwerty/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1806-count-of-matches-in-tournament](https://github.com/Ytqwerty/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Ytqwerty/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ytqwerty/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ytqwerty/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/Ytqwerty/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Ytqwerty/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 ## Greedy
 |  |
