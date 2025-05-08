@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Ytqwerty/leetcode/tree/master/0001-two-sum) |
 | [0561-array-partition](https://github.com/Ytqwerty/leetcode/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/Ytqwerty/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1137-height-checker](https://github.com/Ytqwerty/leetcode/tree/master/1137-height-checker) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ytqwerty/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2502-sort-the-people](https://github.com/Ytqwerty/leetcode/tree/master/2502-sort-the-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ytqwerty/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0561-array-partition](https://github.com/Ytqwerty/leetcode/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/Ytqwerty/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1137-height-checker](https://github.com/Ytqwerty/leetcode/tree/master/1137-height-checker) |
 | [2502-sort-the-people](https://github.com/Ytqwerty/leetcode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -111,4 +113,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Ytqwerty/leetcode/tree/master/0561-array-partition) |
+| [1137-height-checker](https://github.com/Ytqwerty/leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
