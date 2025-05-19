@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/Ytqwerty/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Ytqwerty/leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ytqwerty/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Ytqwerty/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2502-sort-the-people](https://github.com/Ytqwerty/leetcode/tree/master/2502-sort-the-people) |
 ## Array
 |  |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Ytqwerty/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ytqwerty/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ytqwerty/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Ytqwerty/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
