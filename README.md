@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ytqwerty/leetcode/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Ytqwerty/leetcode/tree/master/0048-rotate-image) |
 | [0561-array-partition](https://github.com/Ytqwerty/leetcode/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/Ytqwerty/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/Ytqwerty/leetcode/tree/master/1137-height-checker) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ytqwerty/leetcode/tree/master/0048-rotate-image) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ytqwerty/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ytqwerty/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ytqwerty/leetcode/tree/master/1806-count-of-matches-in-tournament) |
@@ -119,4 +121,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0561-array-partition](https://github.com/Ytqwerty/leetcode/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/Ytqwerty/leetcode/tree/master/1137-height-checker) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Ytqwerty/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
